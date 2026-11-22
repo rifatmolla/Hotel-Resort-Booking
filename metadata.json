@@ -1,0 +1,6 @@
+{
+  "name": "LuxeStay - Hotel & Resort Booking",
+  "description": "Full-featured responsive hotel and resort booking platform with real-time availability, reservation dashboard, loyalty rewards, multi-language support, offline itineraries, and 24/7 concierge chat.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
